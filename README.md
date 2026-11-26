@@ -2,8 +2,7 @@
 
 I'm a student and software developer interested in agentic development, artificial intelligence, and open-source software. I spend a lot of my time experimenting with new technologies, building projects, and learning how LLMs and other systems work.
 
-I'm also the co-founder of [**Aule Labs**](https://github.com/Aule-Labs), an independent AI research lab run by my friend and I, where we experiment with AI systems and explore new ideas in AI.
-
+I'm also the co-founder of [**Aule Labs**](https://github.com/Aule-Labs), an independent AI research lab run by my friend and I, where we experiment with AI systems.
 ## Projects
 
 - [**AfterCare**](https://github.com/VedChiFrendoflake/AfterCare) - An AI-powered application that helps patients understand hospital discharge instructions and organize their recovery.
