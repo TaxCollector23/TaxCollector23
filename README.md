@@ -10,7 +10,7 @@ I'm also the co-founder of [**Aule Labs**](https://github.com/Aule-Labs), an ind
 - [**OwnBot**](https://github.com/TaxCollector23/OwnBot) - A platform for running open-weight AI agents locally with tool integrations and remote task management.
 - [**TransitGap**](https://github.com/TaxCollector23/transitgap) - An open-source routing application that accounts for accessibility barriers when navigating to public transit stops.
 
-I have many other significant projects, but I think these are some of the more polished ones.
+I have many other significant projects, but these are the most presentable.
 
 ## Outside of Development
 
