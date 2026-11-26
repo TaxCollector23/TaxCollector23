@@ -21,3 +21,9 @@ I'm always open to collaborating or connecting :)
 https://rangan.xyz
 
 Feel free to reach out on any of my socials.&#x20;
+
+
+## Contributions
+
+![Contributions](https://raw.githubusercontent.com/TaxCollector23/TaxCollector23/output/contributions.svg)
+
