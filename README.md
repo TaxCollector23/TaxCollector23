@@ -18,4 +18,6 @@ In my free time, I enjoy playing cricket, the guitar, and quizbowl.
 
 I'm always open to collaborating or connecting :)
 
+https://rangan.xyz
+
 Feel free to reach out on any of my socials.&#x20;
